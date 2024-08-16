@@ -1,1 +1,2 @@
 mkdir hesabat
+touch text.txt
